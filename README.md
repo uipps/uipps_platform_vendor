@@ -1,0 +1,2 @@
+# uipps_platform_vendor
+uipps_platform的vendor文件，mac下载的，防止外网不畅做的备份
